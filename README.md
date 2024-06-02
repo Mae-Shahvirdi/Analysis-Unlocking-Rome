@@ -8,6 +8,11 @@ We focus on Rome's rental listings data, including information on hosts, propert
 
 
 ## Key Questions
+Which movies contributed the most/least to revenue gain? 
+What was the average rental duration for all videos? 
+Which countries are Rockbuster customers based in? 
+Where are customers with a high lifetime value based? 
+Do sales figures vary between geographic regions? 
 Top Hosts: Who manages the most listings?
 Property Types: What are the characteristics and distribution of different room types?
 Locations: Where are the listings concentrated, and how do prices and ratings vary by neighborhood?
