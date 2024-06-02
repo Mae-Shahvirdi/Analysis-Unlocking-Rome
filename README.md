@@ -8,10 +8,10 @@ We focus on Rome's rental listings data, including information on hosts, propert
 
 
 ## Key Questions
-#### Top Hosts: Who manages the most listings?
-#### Property Types: What are the characteristics and distribution of different room types?
-#### Locations: Where are the listings concentrated, and how do prices and ratings vary by neighborhood?
-#### Booking Trends: When are properties most frequently booked, and how do minimum stay requirements affect bookings?
+Top Hosts: Who manages the most listings?
+Property Types: What are the characteristics and distribution of different room types?
+Locations: Where are the listings concentrated, and how do prices and ratings vary by neighborhood?
+Booking Trends: When are properties most frequently booked, and how do minimum stay requirements affect bookings?
 
 
 ## Objectives
